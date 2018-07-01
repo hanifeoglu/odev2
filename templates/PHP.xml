@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="php" value="&lt;?php &#10;&#10;&#10;&#10;&#10;&#10;?&gt;" shortcut="TAB" description="'php' statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,44 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="59c895db-c777-462a-9327-f328e1cb1659" name="localhost" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="5522aeac-498f-4f6b-8644-82c6be403033" name="Ketencek" url="http://192.168.53.25">
+        <fileTransfer host="192.168.53.25" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="78b4b5b7-4e88-4bef-88ca-c24e6394c3a6" name="slim.dev" url="http://slim.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="cde969d7-560b-4784-a40d-5dcadc933afb" name="yuel" url="http://yuel.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="00bfc1ff-39af-40b9-a139-b229a65b46a8" name="ketencek" url="http://ketencek.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="e7e2e8e7-e1bd-4cf4-84b4-fa20d115ad12" name="ww" url="http://localhost:8080">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="c0480aa7-2b68-40e1-baaa-8e5e72183e83" name="slim" url="http://localhost:8080">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="357ecb58-6283-469e-936d-cca17104086b" name="PHP Course" url="http://course.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="067d9416-45ee-4191-80ae-74d97fc49b64" name="slim-skeleton" url="http://localhost:8080">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="771bf310-2612-45eb-a0e9-db44dbee8c14" name="Slimss" url="http://localhost:1953">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="5b68f4e9-29f7-4876-ad29-8086780506d2" name="auth" url="http://auth.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
