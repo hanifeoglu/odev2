@@ -39,6 +39,9 @@
       <webServer id="5b68f4e9-29f7-4876-ad29-8086780506d2" name="auth" url="http://auth.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="99c89bd5-a635-4cc0-9a79-e83072f019e1" name="ws course " url="http://ws.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
