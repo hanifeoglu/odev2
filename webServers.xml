@@ -42,6 +42,9 @@
       <webServer id="99c89bd5-a635-4cc0-9a79-e83072f019e1" name="ws course " url="http://ws.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="fb2f7444-2a04-491a-8b57-ff89eab33e0b" name="Mvc" url="http://mvc.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
