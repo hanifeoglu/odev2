@@ -45,6 +45,9 @@
       <webServer id="fb2f7444-2a04-491a-8b57-ff89eab33e0b" name="Mvc" url="http://mvc.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="1840b87d-8bf5-46fc-bdfc-eb08f850fdaf" name="$USER_HOME$/Sites/CourseSlim" url="http://localhost:8082">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
