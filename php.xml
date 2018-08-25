@@ -1,4 +1,10 @@
 <application>
+  <component name="MessDetector">
+    <phpmd_settings_migrated />
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
+  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="/Applications/MAMP/bin/php/php7.2.1/bin/php" id="77464dee-8498-4968-b56d-3fb55fa3a41f" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
