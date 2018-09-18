@@ -51,6 +51,9 @@
       <webServer id="9de16f59-c6ac-4620-86f7-1344f5a8b5e0" name="mvcLogin" url="http://mvc.app">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="be732973-e336-4944-90bb-98c28524f0e4" name="weather" url="http://weather.app">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
