@@ -54,6 +54,14 @@
       <webServer id="be732973-e336-4944-90bb-98c28524f0e4" name="weather" url="http://weather.app">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="8344f63a-ec19-4f13-820a-278debcc7bef" name="Office" url="http://192.168.53.27:8081">
+        <fileTransfer host="192.168.53.27" port="21" rootFolder="/node_jwt_example">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
