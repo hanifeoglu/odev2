@@ -62,6 +62,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="6539fcc0-8135-4767-acc5-1401263b8076" name="OfficeWS" url="http://192.168.53.27:8081">
+        <fileTransfer host="192.168.53.27" port="21" rootFolder="/node_jwt_example">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
