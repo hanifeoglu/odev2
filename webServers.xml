@@ -73,6 +73,9 @@
       <webServer id="fecfedbb-83c7-4ec0-a39b-5c597162ee4c" name="Laravel" url="http://laravel.app">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="f8cafca4-d2b7-4392-9072-d80c6c85caa8" name="b2b.app" url="http://b2b.app">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
