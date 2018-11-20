@@ -76,6 +76,14 @@
       <webServer id="f8cafca4-d2b7-4392-9072-d80c6c85caa8" name="b2b.app" url="http://b2b.app">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="8aef532b-a276-45ed-a862-64b9fd408c80" name="smile" url="http://192.168.2.10:1953">
+        <fileTransfer host="192.168.2.10" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
