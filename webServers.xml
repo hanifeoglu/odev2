@@ -84,6 +84,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="d1fac3e8-2197-401b-be40-bff52f6cc34d" name="SmileReport" url="http://192.168.53.27">
+        <fileTransfer host="192.168.53.27" port="21" rootFolder="/inetpub/wwwroot/php-login-script">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
