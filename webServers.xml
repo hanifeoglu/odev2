@@ -100,6 +100,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="bc66c735-7389-440a-89a4-aa99b712961b" name="Datatable" url="http://192.168.53.27">
+        <fileTransfer host="192.168.53.27" port="21" rootFolder="/inetpub/wwwroot/DataTables-1.10.19">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
