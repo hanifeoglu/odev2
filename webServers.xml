@@ -108,6 +108,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="7321559a-42d2-469a-b7f1-5b8073321329" name="DT" url="http://192.168.53.27">
+        <fileTransfer host="192.168.53.27" port="21" rootFolder="/inetpub/wwwroot/DataTables">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
