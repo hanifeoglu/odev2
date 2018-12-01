@@ -15,6 +15,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="3e5d2d01-5ed6-40dd-bfe8-c671a75c5afa" name="DTF" url="http://192.168.53.27/DTF">
+        <fileTransfer host="192.168.53.27" port="21" rootFolder="/inetpub/wwwroot/DTF">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
