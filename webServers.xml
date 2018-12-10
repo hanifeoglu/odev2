@@ -24,7 +24,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="4d5e163e-1607-49fa-a77a-47942dcae933" name="Larplast" url="http://192.168.1.254">
-        <fileTransfer host="192.168.1.254" port="21">
+        <fileTransfer host="192.168.1.254" port="21" rootFolder="/ketencek">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
