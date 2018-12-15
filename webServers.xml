@@ -31,6 +31,9 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="21b165fa-d10c-4a48-b8f5-373539aac3a1" name="pdf" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
