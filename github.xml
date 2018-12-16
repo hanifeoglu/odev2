@@ -3,5 +3,8 @@
     <account id="ec197728-a491-4e52-ad64-0e81a90921db" name="hanifeoglu">
       <server host="github.com" />
     </account>
+    <account id="eac21630-890d-49ce-8de4-824e205fad1a" name="info@ketencek.com">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
